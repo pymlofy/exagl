@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# Make Dependency files
+*.d
+
